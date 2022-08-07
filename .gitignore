@@ -120,6 +120,11 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#
+efficientnetv2-m/
+projects/chest-xray-covid19-pneumonia/Data/
+projects/chest-xray-covid19-pneumonia/models/
+
 # mypy
 .mypy_cache/
 .dmypy.json

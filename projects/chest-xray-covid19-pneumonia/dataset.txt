@@ -1,0 +1,4 @@
+This dataset of Data has been taken from the following web site:
+https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia/download?datasetVersionNumber=2
+See also:
+https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
